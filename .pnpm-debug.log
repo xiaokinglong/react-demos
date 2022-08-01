@@ -1,0 +1,20 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "shortMessage": "Command failed with exit code 1: /private/var/folders/fp/2zlf8fcn2rb394y8ptrqph5h0000gn/T/dlx-35911/bin/create-umi",
+    "command": "/private/var/folders/fp/2zlf8fcn2rb394y8ptrqph5h0000gn/T/dlx-35911/bin/create-umi",
+    "escapedCommand": "\"/private/var/folders/fp/2zlf8fcn2rb394y8ptrqph5h0000gn/T/dlx-35911/bin/create-umi\"",
+    "exitCode": 1,
+    "failed": true,
+    "timedOut": false,
+    "isCanceled": false,
+    "killed": false,
+    "err": {
+      "name": "pnpm",
+      "message": "Command failed with exit code 1: /private/var/folders/fp/2zlf8fcn2rb394y8ptrqph5h0000gn/T/dlx-35911/bin/create-umi",
+      "stack": "pnpm: Command failed with exit code 1: /private/var/folders/fp/2zlf8fcn2rb394y8ptrqph5h0000gn/T/dlx-35911/bin/create-umi\n    at makeError (/Users/wangjinlong/.nvm/versions/node/v14.9.0/pnpm-global/5/node_modules/.pnpm/registry.npmmirror.com+pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:42410:17)\n    at handlePromise (/Users/wangjinlong/.nvm/versions/node/v14.9.0/pnpm-global/5/node_modules/.pnpm/registry.npmmirror.com+pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:42981:33)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n    at async Object.handler [as dlx] (/Users/wangjinlong/.nvm/versions/node/v14.9.0/pnpm-global/5/node_modules/.pnpm/registry.npmmirror.com+pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:175703:7)\n    at async /Users/wangjinlong/.nvm/versions/node/v14.9.0/pnpm-global/5/node_modules/.pnpm/registry.npmmirror.com+pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:180328:21\n    at async run (/Users/wangjinlong/.nvm/versions/node/v14.9.0/pnpm-global/5/node_modules/.pnpm/registry.npmmirror.com+pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:180302:34)\n    at async runPnpm (/Users/wangjinlong/.nvm/versions/node/v14.9.0/pnpm-global/5/node_modules/.pnpm/registry.npmmirror.com+pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:180513:5)\n    at async /Users/wangjinlong/.nvm/versions/node/v14.9.0/pnpm-global/5/node_modules/.pnpm/registry.npmmirror.com+pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:180505:7"
+    }
+  }
+}
